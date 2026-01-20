@@ -1,4 +1,4 @@
-# snap_data_analysis
+# Snap Data Analysis
 
 The following is the code I used for the analysis I did for the BI engineer application for Snap Finance. For tasks 1-3, I just have sql queries to answer the given questions and get data for the visualizations.
 
